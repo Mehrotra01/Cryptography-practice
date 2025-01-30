@@ -4,6 +4,7 @@ Here’s an updated roadmap **with free resources** for learning cryptography, f
 
 ### **Cryptography Roadmap with Free Resources (2025)**  
 **Phase 1: Foundational Concepts (3–6 Months)**  
+
 1. **Introduction to Cryptography**  
    - **Free Resources**:  
      - [Coursera: Cryptography I (Stanford)](https://www.coursera.org/learn/crypto) (Audit for free).  
@@ -19,8 +20,8 @@ Here’s an updated roadmap **with free resources** for learning cryptography, f
    - **Projects**: Build an RSA key generator using Python.  
 
 ---
-
-**Phase 2: Intermediate Skills (6–12 Months)**  
+**Phase 2: Intermediate Skills (6–12 Months)** 
+ 
 3. **Elliptic Curve Cryptography (ECC)**  
    - **Free Resources**:  
      - [ECC: A Gentle Introduction](https://arxiv.org/pdf/1903.0698.pdf) (Free paper).  
@@ -38,8 +39,8 @@ Here’s an updated roadmap **with free resources** for learning cryptography, f
      - [Side-Channel Attacks: Basics](https://www.youtube.com/watch?v=PuVMw7yw7kA) (YouTube lecture).  
 
 ---
-
 **Phase 3: Advanced Specializations (12+ Months)**  
+
 6. **Post-Quantum Cryptography**  
    - **Free Resources**:  
      - [NIST Post-Quantum Cryptography Project](https://csrc.nist.gov/projects/post-quantum-cryptography) (Standards and papers).  
@@ -58,25 +59,13 @@ Here’s an updated roadmap **with free resources** for learning cryptography, f
 ---
 
 ### **Career Tips & Free Certifications**  
+
 - **Certifications**:  
   - [Google Cybersecurity Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity) (7-day free trial).  
   - [Blockchain Basics (edX)](https://www.edx.org/course/blockchain-basics).  
 - **Portfolio**: Use GitHub to showcase projects (e.g., [PyCryptodome implementations](https://github.com/pyca/cryptography)).  
 
 ---
-
-### **How to Create the Word Doc**  
-1. **Copy this roadmap** into a text editor (e.g., Microsoft Word or Google Docs).  
-2. **Format headings** (e.g., bold phases, bullet points).  
-3. **Add hyperlinks** to the free resources.  
-4. **Save as .docx** and download.  
-
----
-
-### **Future of Cryptography (2025+)**  
-- **Quantum Resistance**: NIST’s standardized algorithms (e.g., Kyber, Dilithium) will dominate.  
-- **AI-Driven Crypto**: ML for breaking/protecting ciphers (e.g., adversarial cryptography).  
-- **Salary Growth**: Entry-level roles start at **$80k–$120k**, with senior roles exceeding **$300k** in tech hubs.  
 
 For more details, explore:  
 - [Cryptography Stack Exchange](https://crypto.stackexchange.com/) (Q&A forum).  
